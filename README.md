@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharuka Gayashan Fernando</h1>
 <h3 align="center">Information Technology Under Graduate at SLIIT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharukagayashan&label=Profile%20views&color=0e75b6&style=flat" alt="tharukagayashan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharukagayashan" alt="tharukagayashan" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
