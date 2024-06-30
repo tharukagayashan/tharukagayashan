@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tharuka Gayashan Fernando and I'm a Software Engineer, from Hambantota, Sri Lanka.</h2>
+<h2 align="left">Hi 👋! My name is Tharuka Gayashan Fernando and I'm a Software Engineer, from Colombo, Sri Lanka.</h2>
 
 ###
 
